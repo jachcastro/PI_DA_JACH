@@ -55,6 +55,11 @@ Por ejemplo, Bitcoin (BTC) se basa en su propia cadena de bloques llamada Bitcoi
 
 La información sobre la plataforma en la que una criptomoneda opera es relevante para comprender su funcionamiento y su compatibilidad con otras aplicaciones y contratos inteligentes en esa plataforma. En CoinGecko, puedes encontrar información sobre la plataforma asociada a una criptomoneda, como su nombre y símbolo de plataforma, en los datos detallados de cada criptomoneda. Esto te permite saber en qué cadena de bloques opera la criptomoneda y cuál es su plataforma subyacente.
 
+Capitalización Bursátil (Market Capitalization): La capitalización bursátil es una métrica utilizada en los mercados financieros para evaluar el tamaño relativo de una empresa o, en este caso, de un sector dentro del mercado de criptomonedas. Se calcula multiplicando el precio actual de un activo (en este caso, tokens DeFi) por la cantidad total de esos activos en circulación. En otras palabras, es el valor total de mercado de todos los tokens DeFi en circulación.
+
+DeFi (Finanzas Descentralizadas): DeFi es un término que se refiere a un conjunto de aplicaciones y plataformas financieras que operan en la cadena de bloques (blockchain) y que buscan eliminar intermediarios tradicionales, como bancos y corredores, para proporcionar servicios financieros de manera descentralizada. Estos servicios pueden incluir préstamos, intercambios, staking, derivados y más.
+
+USD (Dólares Estadounidenses): La métrica se expresa en dólares estadounidenses, que es una de las principales monedas fiduciarias utilizadas en todo el mundo y es comúnmente usada como referencia en el mercado de criptomonedas para medir el valor de los activos digitales.
 
 <H3>Libreria a usar </H3>  
 
