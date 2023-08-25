@@ -69,6 +69,9 @@
 * crypto_tc, ultimo tipo de cambio por cada criptomoneda
 * datos_historicos, precio, volumen y capitalización de mercado de los ultimos 05 años
 * datos_historicos_ohlc, precio diario al apertura (open), elmás alto del día (Hight), el mas bajo del día (Low) y precio del cierre (Close), la información disponible es de los ultimos meses
+* df_volumen, promedio, minimo y maximo de volumen 
+* df_mercado, promedio, minimo y maximo de mercado 
+* df_precio, promedio, minimo y maximo de precio 
 
 <h2>Categorias de criptomoneda seleccionadas </h2>
 
@@ -154,4 +157,16 @@ Todos recomiendan hacerlo un año antes
 <p align='center'>
 <img src ="src/IA.jpeg">
 </p>
+
+<h2>Referencias</h2>
+
+* https://www.youtube.com/watch?v=C-3aYnhF6Io
+* https://www.youtube.com/watch?v=CXmXi9tLPfU
+* https://www.youtube.com/watch?v=Om6DTEPXRek
+* https://www.youtube.com/watch?v=uAybJ3IJ5GA
+* https://libertex.org/es/blog/precio-de-criptomonedas#:~:text=Las%20criptomonedas%20son%20activos%20muy,en%20la%20regulaci%C3%B3n%20del%20valor
+* https://criptoinforme.com/mercado/5-metricas-para-analisis-fundamental-de-criptomonedas-que-debes-conocer/
+* https://www.youtube.com/watch?v=1-C5GsWmgGY
+* https://www.youtube.com/watch?v=RI9t8Fo2DG4
+* https://www.coinbase.com/es-LA/learn/crypto-basics/what-is-a-bitcoin-halving
 
