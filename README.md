@@ -6,7 +6,7 @@
  <b>PROYECTO INDIVIDUAL Nº2</b>
 </h1>
 
-<h1 align="center">**`Cryptocurrency Market Data Analytics`**</h1>
+<h1 align="center">Cryptocurrency Market Data Analytics</h1>
 <p align='center'>
 <img src ="src/most_traded_cryptocurrencies.png">
 </p>
